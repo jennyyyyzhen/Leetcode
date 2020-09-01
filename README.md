@@ -1,7 +1,7 @@
 # Leetcode
 | Num     | Name  | Level   | Comment  |
 | ----- |----- |---------| -----|
-| 1     | [Two Sum](https://github.com/jennyyyyzhen/Leetcode/blob/master/two_sum_1.java) | Easy  |   |
+| 1     | [Two Sum](https://github.com/jennyyyyzhen/Leetcode/blob/master/two_sum_1.java) | Easy  |  Classic Problem |
 | 2     |   [Add Two Numbers](https://github.com/jennyyyyzhen/Leetcode/blob/master/add_two_numbers_2.java)   |   Medium  |    |
 | 3     | [Longest Substring Without Repeating Characters](https://github.com/jennyyyyzhen/Leetcode/blob/master/longest_substring_without_repeating_3.java)     |   Medium   |  Two Pointers  |
 | 4     | [Median of Two Sorted Arrays](https://github.com/jennyyyyzhen/Leetcode/blob/master/median_of_two_sorted_arr_4.java) | Hard | Binary Search O(log(Min(m,n))) |
@@ -12,3 +12,8 @@
 |9      | [Palindrom Number](https://github.com/jennyyyyzhen/Leetcode/blob/master/palindrome_number_9.java)| Easy| |
 |10 | [Regular Expression Matching](https://github.com/jennyyyyzhen/Leetcode/blob/master/regular_expression_matching_10.java)| Hard|DP|
 |11| [Container With Most Water](https://github.com/jennyyyyzhen/Leetcode/blob/master/container_with_most_water_11.java)|Medium| Two Pointers (tricky)|
+|12| [Integer to Roman](https://github.com/jennyyyyzhen/Leetcode/blob/master/integer_to_roman_12.java)|Medium| Hard Coded|
+|13|[Roman to Integer](https://github.com/jennyyyyzhen/Leetcode/blob/master/roman_to_integer_13.java)|Easy| Hard Coded|
+|14|[Longest Common Prefix](https://github.com/jennyyyyzhen/Leetcode/blob/master/longest_common_prefix_14.java)|Easy||
+|15|[3Sum](https://github.com/jennyyyyzhen/Leetcode/blob/master/3sum_15.java)|Medium|Two Pointers|
+|16|[3Sum Closest](https://github.com/jennyyyyzhen/Leetcode/blob/master/3sum_closest_16.java)|Medium| Similar with #15|
