@@ -10,3 +10,5 @@
 |7      | [Reverse Integer](https://github.com/jennyyyyzhen/Leetcode/blob/master/reverse_integer_7.java)| Easy| Int Overflow|
 |8      | [String to Integer](https://github.com/jennyyyyzhen/Leetcode/blob/master/string_to_integer_8.java)| Medium| Lots of Patience Lol|
 |9      | [Palindrom Number](https://github.com/jennyyyyzhen/Leetcode/blob/master/palindrome_number_9.java)| Easy| |
+|10 | [Regular Expression Matching](https://github.com/jennyyyyzhen/Leetcode/blob/master/regular_expression_matching_10.java)| Hard|DP|
+|11| [Container With Most Water](https://github.com/jennyyyyzhen/Leetcode/blob/master/container_with_most_water_11.java)|Medium| Two Pointers (tricky)|
