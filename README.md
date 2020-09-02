@@ -17,3 +17,9 @@
 |14|[Longest Common Prefix](https://github.com/jennyyyyzhen/Leetcode/blob/master/longest_common_prefix_14.java)|Easy||
 |15|[3Sum](https://github.com/jennyyyyzhen/Leetcode/blob/master/3sum_15.java)|Medium|Two Pointers|
 |16|[3Sum Closest](https://github.com/jennyyyyzhen/Leetcode/blob/master/3sum_closest_16.java)|Medium| Similar with #15|
+|17|[Letter Combination of a Phone Number](https://github.com/jennyyyyzhen/Leetcode/blob/master/letter_combinations_of_phone_number_17.java)| Medium||
+|18|[4Sum](https://github.com/jennyyyyzhen/Leetcode/blob/master/4Sum_18.java)|Medium|O(n^k-1)|
+|19|[Remove Nth Node From End of List](https://github.com/jennyyyyzhen/Leetcode/blob/master/remove_nth_node_from_end_of_list_19.java)|Medium|Classic Problem|
+|20|[Valid Parenthese](https://github.com/jennyyyyzhen/Leetcode/blob/master/valid_parenthese_20.java)|Easy|Interview Question|
+|21|[Merge Two Sorted List](https://github.com/jennyyyyzhen/Leetcode/blob/master/merge_rwo_sorted_lists_21.java)|Easy||
+|22|[Generate Parentheses](https://github.com/jennyyyyzhen/Leetcode/blob/master/generate_parenthese_22.java)|Medium||
